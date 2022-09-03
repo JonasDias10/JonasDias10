@@ -1,4 +1,4 @@
-## Oie eu sou o Jonas Dias 😀
+## Oie, eu sou o Jonas Dias 😀
 
 ### Bem-vindos ao meu perfil 🤙🏽
 
