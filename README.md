@@ -8,9 +8,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zdias_z3/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zdias_z3)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasDias10&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasDias10&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasDias10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasDias10&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stack
 ![Linguagem C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
