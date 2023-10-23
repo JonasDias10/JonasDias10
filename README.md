@@ -1,8 +1,8 @@
-## Oie, eu sou o Jonas Dias 😀
+## Hi, I'm Jonas Dias 😀
 
-### Bem-vindo(a) ao meu perfil 🤙🏽
+### Welcome to my profile 🤙🏽
 
-### Minhas Redes: 🌎
+### My social media 🌎
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasdias18/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zdias_z3/)
