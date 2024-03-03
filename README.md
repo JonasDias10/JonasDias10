@@ -2,10 +2,12 @@
 
 ### Welcome to my profile 🤙🏽
 
-### My social media 🌎
-
+### Social media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasdias18/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zdias_z3/)
+
+### Portfolio
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jonas-dias-portfolio.netlify.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasDias10&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
