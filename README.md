@@ -1,4 +1,7 @@
-#### Access my Portfolio at the Link: https://jonas-dias-portfolio.netlify.app
+# Hi, I'm Jonas - Full-Stack Developer
 
-### My Knowledge
-* #### **[ Java, Spring Boot, PostgreSQL, React, TypeScript, GraphQL ]**
+### Explore my Portfolio: [jonas-dias-portfolio.netlify.app](https://jonas-dias-portfolio.netlify.app)
+
+### Tech Stack & Expertise
+
+**TypeScript · React · Node.js · GraphQL · PostgreSQL · Java · Spring Boot · Supabase**
