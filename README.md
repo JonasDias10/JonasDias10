@@ -1,4 +1,4 @@
-# Hi, I'm Jonas - Full-Stack Developer
+# Hi, I'm Jonas - Software Developer
 
 ### Tech Stack & Expertise
 
